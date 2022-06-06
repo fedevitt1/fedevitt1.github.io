@@ -1,2 +1,1 @@
-# fedevitt1.github.io
-Federico Vittori Website
+# Federico Vittori Website
