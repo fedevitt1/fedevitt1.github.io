@@ -14,7 +14,7 @@ I decided to use monochromatic colors on the tenolity of yellow and brown.
 
 ## Link
 
-At [Federico Vittori Counter](https://fedevitt1.github.io/) you can try the counter.
+At [Federico Vittori Counter](https://fedevitt1.github.io/) you can try the counter or at [Federico Vittori Counter 2](https://fedevitt1.netlify.app)
 
 ## Contributing
 Pull requests are welcome and for major changes, please open an issue first to discuss what you would like to change.
