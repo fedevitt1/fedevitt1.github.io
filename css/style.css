@@ -1,0 +1,51 @@
+/* General */
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+/* Body */
+body{
+  background-color: #BDB0A8;
+}
+/* Box */
+#box{
+  width: 500px;
+  height: 300px;
+  margin: auto;
+  margin-top: 50px;
+  border: 8px solid #5C4120;
+  background-color: #EDB75A;
+}
+/* Title */
+h1{
+  font-family: 'Copperplate', fantasy;
+  font-size: 50px;
+  margin-top: 50px;
+  text-align: center;
+  color: #5C3510;
+}
+/* Number */
+#number{
+  width: 35%;
+  height: 20px;
+  margin: auto;
+  margin-top: 100px;
+  text-align: center;
+  border: 2px solid #5C4120;
+  background-color: white;
+}
+/* Button inc */
+#inc{
+  width: 30%;
+  height: 25px;
+  margin-top: 50px;
+  margin-left: 20%;
+  border: 2px solid #5C4120;
+}
+/* Button dec */
+#dec{
+  width: 30%;
+  height: 25px;
+  border: 2px solid #5C4120;
+}
