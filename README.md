@@ -10,9 +10,11 @@ I decided to use monochromatic colors on the tenolity of orange.
 
 ## Visuals
 
+<img width="692" alt="Counter Screen" src="https://user-images.githubusercontent.com/75486990/172795203-9202fcdf-aa12-4429-bd92-8aa871ed7bb3.png">
+
 ## Link
 
-ssssssssss
+[Federico Vittori Counter](
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
